@@ -1,4 +1,4 @@
-const wrapper = document.getElementById("hours")
+const wrapper = document.getElementById("hoursWrapper")
 
 fetch('data/openingHours.json')
   .then(response => response.json())

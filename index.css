@@ -54,7 +54,7 @@ a {
   overflow: hidden;
 }
 
-#hours {
+#hoursWrapper {
   border-top: 1px solid black;
   text-align: center;
   margin-top: 5vh;
