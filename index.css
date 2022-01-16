@@ -115,6 +115,7 @@ a {
 
 .eventImg {
   max-width: 100%;
+  width: 100%;
 }
 
 .eventItem {
@@ -128,4 +129,27 @@ a {
 #customEvent {
   width: 100%;
   text-align: center;
+}
+
+#aboutWrapper {
+  text-align: left;
+  margin-bottom: 10vh;
+
+}
+
+.aboutHeader {
+  text-align: center;
+}
+
+.aboutImgContainer {
+  text-align: center;
+}
+
+.aboutImg {
+  max-width: 600px;
+  width: 100%;
+}
+
+.aboutPadding {
+  margin-bottom: 7vh;
 }
