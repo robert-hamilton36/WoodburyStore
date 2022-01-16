@@ -1,14 +1,14 @@
 const wrapper = document.getElementById("hoursWrapper")
 
 fetch('data/openingHours.json')
-  .then(response => response.json())
-  .then(data => {
-    if (data.holidayHours) {
-      wrapper.appendChild(createHoursDisplay(data.holidayHours, "Holiday Hours"))
-    }
-    wrapper.appendChild(createHoursDisplay(data.regularHours, "Hours"))
+.then(response => response.json())
+.then(data => {
+  if (data.holidayHours) {
+    wrapper.appendChild(createHoursDisplay(data.holidayHours, "Holiday Hours"))
+  }
+  wrapper.appendChild(createHoursDisplay(data.regularHours, "Hours"))
 
-  })
+})
 
 const createDayTimeP = (day, time) => {
   const dayTimeP = document.createElement("p")
