@@ -1,0 +1,22 @@
+#aboutWrapper {
+  text-align: left;
+  margin-bottom: 10vh;
+
+}
+
+.aboutHeader {
+  text-align: center;
+}
+
+.aboutImgContainer {
+  text-align: center;
+}
+
+.aboutImg {
+  max-width: 600px;
+  width: 100%;
+}
+
+.aboutPadding {
+  margin-bottom: 7vh;
+}

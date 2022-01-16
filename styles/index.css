@@ -3,7 +3,6 @@ a {
   color: black;
 }
 
-
 #page {
   max-width: 1100px;
   margin: 0 auto;
@@ -17,8 +16,6 @@ a {
 }
 
 #nav {
-
-
   display: flex;
   justify-content: space-between;
 
@@ -48,7 +45,6 @@ a {
   background-color: #f0f0f0;
 }
 
-
 .exteriorImg {
   max-width: 100%;
   overflow: hidden;
@@ -66,7 +62,6 @@ a {
   display:flex;
   justify-content: space-around;
 
-  /* margin-top: 2rem; */
   margin-bottom: 5vh;
 
   border-top: 1px solid black;
@@ -81,75 +76,4 @@ a {
 
 #social-icon {
   width: 40px;
-}
-
-.menuHeader {
-  text-align: center;
-}
-
-.menuItem-price {
-  float: right;
-}
-
-.menuItem-options  {
-  list-style: none;
-}
-
-.menuItem {
-  padding-bottom: 30px;
-}
-
-.menuItem-options > li:before {
-  content: "+";
-  margin-right: 14px;
-}
-
-#eventsWrapper {
-  display:flex;
-  flex-direction: column;
-
-  margin-top: 2rem;
-  margin-bottom: 10vh;
-  align-items: center;
-}
-
-.eventImg {
-  max-width: 100%;
-  width: 100%;
-}
-
-.eventItem {
-  width: 100%;
-  padding-bottom: 5vh;
-  margin-bottom: 5vh;
-  border-bottom: 1px solid black;
-  text-align: center;
-}
-
-#customEvent {
-  width: 100%;
-  text-align: center;
-}
-
-#aboutWrapper {
-  text-align: left;
-  margin-bottom: 10vh;
-
-}
-
-.aboutHeader {
-  text-align: center;
-}
-
-.aboutImgContainer {
-  text-align: center;
-}
-
-.aboutImg {
-  max-width: 600px;
-  width: 100%;
-}
-
-.aboutPadding {
-  margin-bottom: 7vh;
 }
