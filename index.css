@@ -103,3 +103,29 @@ a {
   content: "+";
   margin-right: 14px;
 }
+
+#eventsWrapper {
+  display:flex;
+  flex-direction: column;
+
+  margin-top: 2rem;
+  margin-bottom: 10vh;
+  align-items: center;
+}
+
+.eventImg {
+  max-width: 100%;
+}
+
+.eventItem {
+  width: 100%;
+  padding-bottom: 5vh;
+  margin-bottom: 5vh;
+  border-bottom: 1px solid black;
+  text-align: center;
+}
+
+#customEvent {
+  width: 100%;
+  text-align: center;
+}
