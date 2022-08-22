@@ -1,0 +1,12 @@
+{
+  "regularHours": {
+
+    "Monday": "Closed",
+    "Tuesday": "Closed",
+    "Wednesday": "8.30 - 4.00",
+    "Thursday": "8.30 - 4.00",
+    "Friday": "8.30 - 8.00",
+    "Saturday": "8.30 - 8.00",
+    "Sunday": "8.30 - 4.00"
+  }
+}

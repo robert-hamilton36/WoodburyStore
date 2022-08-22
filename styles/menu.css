@@ -1,0 +1,20 @@
+.menuHeader {
+  text-align: center;
+}
+
+.menuItem-price {
+  float: right;
+}
+
+.menuItem-options  {
+  list-style: none;
+}
+
+.menuItem {
+  padding-bottom: 4rem;
+}
+
+.menuItem-options > li:before {
+  content: "+";
+  margin-right: 14px;
+}

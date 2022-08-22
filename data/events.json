@@ -1,0 +1,15 @@
+{
+  "events": [
+    {
+    "title": "Landgirls",
+    "when": "Wednesday 5th January 1-3pm",
+    "description": ["To start the new year off we are thrilled to have local Landgirls duo of Anna Munro and Abbey Mackenzie playing their easy listening music in the cafes courtyard garden"],
+    "photoSrc": "/photos/events/landgirls.png"
+    },{
+    "title": "Pizza & Platters",
+    "when": "Friday and Saturday until 8pm",
+    "description": [""],
+    "photoSrc": "/photos/events/platters.jpg"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "breakfast":[
+    {
+      "item": "Woodbury Breakfast",
+      "price": "$15.00",
+      "description": "1 Egg, homemade rosti, Geraldine Butchery bacon, sausage, ½ tomato, toast",
+      "options": []
+    },
+    {
+      "item": "Large Woodbury Breakfast",
+      "price": "$18.50",
+      "description": "2 Egg, homemade rosti, 2 strips Geraldine Butchery bacon, 2 sausages, ½ tomato, toast",
+      "options": []
+    },
+    {
+      "item":"Eggs 2",
+      "price":"$10.50",
+      "description": "Scrambled, fried or poached, with toast",
+      "options": ["Add Geraldine Butchery crispy bacon +$4.00", "Add smoked salmon +$6.00"]
+    },
+    {
+      "item":"Crepes",
+      "price": "$16.00",
+      "description": "",
+      "options": ["Caramelised Banana & Berries", "Crispy Bacon & Caramelised Banana & Berries", "Nutella and Banana with Chocolate Sauce"]
+    },
+    {
+      "item":"Omelette",
+      "price":"$16.00",
+      "description": "choice of two fillings: Mushroom, Tomato, Bacon, Feta, Spinach, Cheese",
+      "options": ["Additional filling +$4.00"]
+    }
+  ],
+  "lunch": [
+    {
+      "item": "Cauliflower & Bacon chowder",
+      "price": "$10.00",
+      "description": "with half toasted cheese puff",
+      "options": []
+    },
+    {
+      "item":"Soup of the Day",
+      "price":"$9.00",
+      "description": "with half toasted cheese puff",
+      "options": []
+    },
+    {
+      "item":"Pasta of the Day",
+      "price": "$16.00",
+      "description": "",
+      "options": ["Creamy bacon & mushroom", "Chorizo, tomato, olives & parmesan"]
+    },
+    {
+      "item":"Nacho Beans",
+      "price":"$16.00",
+      "description": "topped with cheese, sour cream and salsa",
+      "options": ["Add guacamole +$2.00"]
+    }
+  ]
+
+}
